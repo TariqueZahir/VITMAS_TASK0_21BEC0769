@@ -1,6 +1,6 @@
 # VITMAS_TASK0_21BEC0769
 
-git init
+https://github.com/git-guides/git-init#:~:text=git%20init%20is%20one%20way,part%20of%20your%20project's%20history.
 This command turns a directory into an empty Git repository. This is the first step in creating a repository. After running git init, adding and committing files/directories is possible.
 
 git add
