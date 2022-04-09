@@ -62,3 +62,11 @@ This command temporarily stores all the modified tracked files.
 14)GIT PULL
   
 This command fetches and merges changes on the remote server to your working directory.
+  
+15)GIT FETCH
+
+This command is used to download objects and refs from another repository
+  
+16)GIT PUSH
+
+This command is used to update remote refs along with associated objects
